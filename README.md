@@ -1,45 +1,58 @@
-# 💫 About Me:
-Hello! I'm Denner, a software engineer with a passion for life and coding. When I'm not at my desk, I enjoy superhero movies, jamming on guitars and keyboards, and spending time with my furry companions, Stella and Lua.
+# Denner Parreiras
 
-Professionally, I'm immersed in technology, working across front-end, back-end, and full-stack development. My main focus is on building scalable mobile solutions using React Native, leveraging JavaScript for robust and efficient apps. I also have strong skills in Vue.js, React, and .NET (C#). Currently, I'm a Software Engineer, primarily working with React Native while keeping my Vue.js expertise sharp.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/dennerparreiras)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=%231DA1F2)](https://twitter.com/dennerparreiras)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=%23E4405F)](https://instagram.com/dennerparreiras)
+[![Behance](https://img.shields.io/badge/Behance-323330?style=for-the-badge&logo=behance&logoColor=1769ff)](https://www.behance.net/dennerparreiras1)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@dennerparreiras)
+[![Dev.to Badge](https://img.shields.io/badge/Dev.to-323330?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/denner)
+[![Medium Badge](https://img.shields.io/badge/Medium-323330?style=for-the-badge&logo=medium&logoColor=white)](https://medium.dennerparreiras.com/)
+[![Discord](https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord&logoColor=%237289DA)](https://discord.gg/FGyFc98NVJ)
+<br>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dennerparreiras1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dennerparreiras)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dennerparreiras)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dennerparreiras)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dennerparreiras/)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Denner-Parreiras)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10090274)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tio.denner/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/tiodenner/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dennerparreiras)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dennerparreiras)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dennerparreiras) 
-<br><br>
+## About Me 🎯
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-<br><br>
+- 💻 **Software Engineer** specialized in **React Native** and **JavaScript**  
+- 🏢 Skilled in **Vue.js**, **React**, and **.NET (C#)**  
+- 🌐 Experience with front-end, back-end, and full-stack projects  
+- 🎮 Gaming enthusiast (Nintendo Switch, PS5, and PC)  
+- 🐶 Proud dad of two furry companions, **Stella** and **Lua**  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dennerparreiras&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dennerparreiras&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennerparreiras&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br><br>
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=dennerparreiras&icon=0&color=11)](https://visitcount.itsvg.in)
+## 👩🏻‍💻 Knowledge / Experience :star:
+
+| Category                                                                                                                                    | Description                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **Technologies / Frameworks / Languages**<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=for-the-badge&logo=react) ![Vue.js](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | Core tech stack for developing mobile and web applications. |
+| **Databases / SQL**<br>![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white) | SQL-based database systems and management.                  |
+| **Design / Multimedia**<br>![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001833?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF) ![Adobe Premiere](https://img.shields.io/badge/Premiere-2D1653?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF) ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) | Creation and editing of multimedia and design assets.       |
+| **Tools**<br>![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | Source control and project management.                      |
+| **Operating Systems**<br>![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/-MacOS-232f3e?style=for-the-badge&logo=apple&logoColor=white) | Comfortable working on various OS environments.            |
+
+<br>
+
+## Latest Posts 📕
+1. **Understanding Digital Asset Links File: A Key to Efficient and Secure Deep Linking**  
+   - [Read on Dev.to](https://dev.to/denner/understanding-digital-asset-links-file-a-key-to-efficient-and-secure-deep-linking-1kcd) or [Read on Medium](https://medium.dennerparreiras.com/understanding-digital-asset-links-file-a-key-to-efficient-and-secure-deep-linking-aacb90a45961)
+
+2. **Deep Dive into apple-app-site-association file: Enhancing Deep Linking on iOS**  
+   - [Read on Dev.to](https://dev.to/denner/deep-dive-into-apple-app-site-association-file-enhancing-deep-linking-on-ios-4pd1) or [Read on Medium](https://medium.dennerparreiras.com/deep-dive-into-apple-app-site-association-file-enhancing-deep-linking-on-ios-fcbf9dad9c26)
+
+<br>
+
+## GitHub Stats ⭐
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=dennerparreiras&show_icons=true&theme=onedark" />
+</a>
+&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width='33.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennerparreiras&layout=compact&theme=onedark"/>
+</a>
+
+<br>
+<br>
+
+<a href="https://app.daily.dev/dennerparreiras">
+  <img src="https://api.daily.dev/devcards/v2/hliEqpxOlWrNLgS4RXOTo.png?r=ud0&type=wide" width="652" alt="Denner Parreiras's Dev Card"/>
+</a>
