@@ -14,7 +14,8 @@
 
 - 💻 **Software Engineer** specialized in **React Native** and **JavaScript**  
 - 🏢 Skilled in **Vue.js**, **React**, and **.NET (C#)**  
-- 🌐 Experience with front-end, back-end, and full-stack projects  
+- 🌐 Experience with front-end, back-end, and full-stack projects
+- 🎓 Bachelor's Degree in **Information Systems** from **PUC Minas** 
 - 🎮 Gaming enthusiast (Nintendo Switch, PS5, and PC)  
 - 🐶 Proud dad of two furry companions, **Stella** and **Lua**  
 
